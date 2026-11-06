@@ -1,0 +1,30 @@
+{
+  "entities": {
+    "Veranstaltungen": {
+      "placeholders_set": 3,
+      "defaults_keys": [
+        "datum"
+      ],
+      "computed_keys": [],
+      "reason": "Keine Formeln, da es nur ein Datum und keine numerischen Felder oder Lookups gibt."
+    },
+    "Interaktionen": {
+      "placeholders_set": 8,
+      "defaults_keys": [],
+      "computed_keys": [],
+      "reason": "Keine Formeln, da es nur Textfelder und eine Reihenfolgenummer ohne numerische Berechnung gibt."
+    },
+    "Rückmeldungen": {
+      "placeholders_set": 4,
+      "defaults_keys": [],
+      "computed_keys": [],
+      "reason": "Keine Formeln, da die Rückmeldung nur Text und eine Interaktionsauswahl enthält und keine numerische Rechenkette besteht."
+    },
+    "Abschlussbewertungen": {
+      "placeholders_set": 4,
+      "defaults_keys": [],
+      "computed_keys": [],
+      "reason": "Keine Formeln, da es nur eine Bewertung ohne numerische Felder oder Datumspaare gibt."
+    }
+  }
+}

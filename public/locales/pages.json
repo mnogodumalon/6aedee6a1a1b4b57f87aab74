@@ -1,0 +1,39 @@
+{
+  "pages": {
+    "en": {
+      "Abschlussbewertungen": "Final ratings",
+      "Aktiv": "Active",
+      "Aktiv setzen": "Set active",
+      "Aktiv setzen & QR zeigen": "Set active & show QR",
+      "Alles erledigt — neue Rückmeldungen erscheinen hier, sobald sie eintreffen.": "All done — new responses will appear here as soon as they arrive.",
+      "Als Nächstes": "Up next",
+      "Als Nächstes: {0} — keine Frage ist gerade aktiv.": "Up next: {0} — no question is currently active.",
+      "Beenden": "End",
+      "Bei jeder Veranstaltung läuft gerade eine Frage.": "A question is currently running at every event.",
+      "Bei „{0}“ läuft gerade „{1}“ — erst 1 Rückmeldung da.": "\"{0}\" is currently running \"{1}\" — only 1 response so far.",
+      "Bei „{0}“ läuft gerade „{1}“ — {2} Rückmeldungen bisher.": "\"{0}\" is currently running \"{1}\" — {2} responses so far.",
+      "Eintragen": "Enter",
+      "Erste Veranstaltung anlegen": "Create first event",
+      "Heute: {0} — noch keine Frage aktiv.": "Today: {0} — no question active yet.",
+      "Interaktion": "Interaction",
+      "Interaktion beendet": "Interaction ended",
+      "KI-Antwort da": "AI response received",
+      "KI-Antwort eintragen": "Enter AI response",
+      "Konnte nicht aktiv gesetzt werden — bitte erneut versuchen.": "Could not be set active — please try again.",
+      "Lege deine erste Veranstaltung an, dann bereitest du die Fragen vor.": "Create your first event, then prepare the questions.",
+      "Neue Veranstaltung": "New event",
+      "Noch keine Interaktion — füge die erste Frage hinzu.": "No interactions yet — add the first question.",
+      "Noch keine Veranstaltung — lege die erste an und füge ihre Fragen hinzu.": "No events yet — create the first one and add its questions.",
+      "Ohne Datum": "No date",
+      "Ohne aktive Frage": "No active question",
+      "QR zeigen": "Show QR",
+      "Rückmeldungen zur aktiven Frage": "Responses to the active question",
+      "Sterne": "Stars",
+      "Zusammenfassen": "Summarize",
+      "zusammengefasst": "summarized",
+      "Öffnen": "Open",
+      "„{0}“ ist jetzt aktiv": "\"{0}\" is now active"
+    }
+  },
+  "v": 1
+}

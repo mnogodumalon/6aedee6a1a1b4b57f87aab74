@@ -1,0 +1,29 @@
+{
+  "VeranstaltungenDialog.tsx": {
+    "titel": "z. B. Workshop Zukunftsdenken",
+    "datum": "Wann findet es statt?",
+    "beschreibung": "Worum geht es?"
+  },
+  "InteraktionenDialog.tsx": {
+    "veranstaltung": "Welche Veranstaltung?",
+    "reihenfolge": "z. B. 1",
+    "frage": "Welche Frage soll gestellt werden?",
+    "erlaeuterung": "Kurze Hilfe zur Frage",
+    "vorprompt": "Was soll der KI vorangestellt werden?",
+    "endprompt": "Was soll der KI nachgestellt werden?",
+    "zusammenfassung": "Alle Antworten zusammengeführt",
+    "ki_antwort": "Antwort der KI erscheint hier"
+  },
+  "RueckmeldungenDialog.tsx": {
+    "interaktion": "Welche Interaktion?",
+    "kuerzel": "z. B. MK",
+    "feedback_text": "Was möchtest du rückmelden?",
+    "absende_kennung": "z. B. RM-2026-001"
+  },
+  "AbschlussbewertungenDialog.tsx": {
+    "veranstaltung": "Welche Veranstaltung?",
+    "kuerzel": "z. B. AB-42",
+    "kommentar": "Was ist Ihnen aufgefallen?",
+    "email": "z. B. name@beispiel.de"
+  }
+}
